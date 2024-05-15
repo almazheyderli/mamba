@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\bin\Debug\net6.0\Mamba.Core.deps.json
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.sourcelink.json
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.dll
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\refint\Mamba.Core.dll
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\Mamba.Core.pdb
+C:\Users\User\Desktop\proniaprakt\MambaTask\MambaNlayer\Mamba.Core\obj\Debug\net6.0\ref\Mamba.Core.dll
